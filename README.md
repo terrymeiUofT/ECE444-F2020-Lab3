@@ -27,4 +27,5 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 
 ### Activity 3
-The Flask context globals include 4 variables for 2 contexts in Flask -- the application context and request context. Each context has 2 vairaibles to help achieve its functions, such as temporary storage of information. Attempt to access these variables in wrong contexts would result in errors. In this way, these variables ensure the data integrity in Flask.
+1. SQL Databases follow the relational model, and stores data in tables; whereas NoSQL databases use collections instead of tables to store data, and data are stored as documents instead of records.
+2. SQL Databases avoid data duplication, making it efficient for data records update and Join operation. NoSQL Databases allow data duplication, congregating information from different tables into a single document, and hence be able to reduce the number of tables. This difference gave NoSQL Databases better performance on querying, at the expense of making it difficult to perform the JOIN operation.
