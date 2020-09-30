@@ -9,9 +9,21 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 
 ### Activity 2
-![alt text][img2]
+![alt text][img2-1]
 
-[img2]: https://github.com/terrymeiUofT/ECE444-F2020-Lab2/blob/master/activity2.JPG "screen shot of activity 2"
+[img2-1]: https://github.com/terrymeiUofT/ECE444-F2020-Lab3/blob/master/activity2_1.JPG "screen shot of activity 2"
+
+![alt text][img2-2]
+
+[img2-2]: https://github.com/terrymeiUofT/ECE444-F2020-Lab3/blob/master/activity2_2.JPG "screen shot of activity 2"
+
+![alt text][img2-3]
+
+[img2-3]: https://github.com/terrymeiUofT/ECE444-F2020-Lab3/blob/master/activity2_3.JPG "screen shot of activity 2"
+
+![alt text][img2-4]
+
+[img2-4]: https://github.com/terrymeiUofT/ECE444-F2020-Lab3/blob/master/activity2_4.JPG "screen shot of activity 2"
 
 
 ### Activity 3
