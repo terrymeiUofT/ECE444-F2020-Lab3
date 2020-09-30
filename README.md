@@ -5,7 +5,7 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 ### Activity 1
 ![alt text][img1]
 
-[img1]: https://github.com/terrymeiUofT/ECE444-F2020-Lab2/blob/master/activity1.JPG "screen shot of activity 1"
+[img1]: https://github.com/terrymeiUofT/ECE444-F2020-Lab3/blob/master/activity1.JPG "screen shot of activity 1"
 
 
 ### Activity 2
