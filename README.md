@@ -40,4 +40,6 @@ docker-compose up
 
 
 ### Lab 4 Deliverable 3
-Difference between Docker and Virtual Machine...
+Difference between Docker and Virtual Machine:
+1. Docker stores code and its dependencies in a portable container, whereas Virtual Machine stores code and its dependencies on a specific machine that allows remote access.
+2. The code and its dependencies stored in a Docker Image is not mutable, providing consistency and giving confidence to programmers that their code would work on any machine that provides Docker. On the other hand, anyone who has access to the virtual machine would be able to change the code and its dependencies.
