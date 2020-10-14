@@ -25,14 +25,17 @@ docker-compose up
 
 ##### Screenshot of docker run command
 ![alt text][img2-1]
+
 [img2-1]: https://github.com/terrymeiUofT/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/activity2/docker_run.jpg "screenshot of docker run command"
 
 ##### Screenshot of browser
 ![alt text][img2-2]
+
 [img2-2]: https://github.com/terrymeiUofT/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/activity2/browser.jpg "screenshot of browser"
 
 ##### Screenshot of docker image
 ![alt text][img2-3]
+
 [img2-3]: https://github.com/terrymeiUofT/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/activity2/docker_image.jpg "screenshot of docker image"
 
 
